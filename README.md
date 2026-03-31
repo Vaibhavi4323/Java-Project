@@ -1,29 +1,29 @@
-# Java Projects Collections
+# Java Project - Billing System
 
-This repository contains a wide variety of Java projects and code samples, ranging from beginner to advanced level. Projects cover different topics, levels of complexity, and real-world use cases. You’ll find:
+A console-based Billing System developed in Java that simulates real-world retail billing operations. This project is designed at an intermediate level, incorporating object-oriented programming concepts, file handling, and modular design.
 
-- Simple programs and utilities
-- Algorithms and data structures
-- Games and interactive applications
-- Tools, calculators, and mini-projects
-- Domain-specific and practical Java solutions
+## Features
+	•	🧾 Generate customer bills
+	•	📦 Add, update, and delete products
+	•	🔍 Search products by name or ID
+	•	🛒 Add items to cart with quantity
+	•	💵 Automatic total calculation (with tax support)
+	•	💾 Store product and billing data using file handling
+	•	📊 Display bill summary with formatted output
 
-All projects are organized in folders for easy exploration and learning.
 
-## How to Use
-- Browse the folders to discover projects by topic or interest.
-- Each project may have its own README or documentation.
-- Use the code for learning, reference, or as a starting point for your own Java projects.
-
-## Contributing
-Contributions are welcome! You can:
-- Add new Java projects or code samples
-- Improve documentation or code organization
-- Suggest new ideas or enhancements
-
-See the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
-
----
-
-**Explore, learn, and build with Java!**
-
+## Tech Stack
+### Language: Java
+### Concepts Used:
+	•	Object-Oriented Programming (OOP)
+	•	File Handling (BufferedReader, FileWriter)
+	•	Collections (ArrayList, HashMap)
+	•	Exception Handling
+	•	Modular Code Structure
+  
+## Concepts Covered
+	•	Class & Object Design
+	•	Encapsulation & Abstraction
+	•	File I/O Operations
+	•	Data Structures for efficient billing
+	•	Input validation & error handling
